@@ -1,0 +1,247 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #522020;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+}
+#calculate, #contact{
+    background-color: #522020;
+    padding: 20px;
+    border-radius: 10px;
+    transition: opacity 1.5s ease-in-out;
+    text-align:center;
+
+}
+#home {
+    background-color: #522020;
+    padding: 20px;
+    border-radius: 10px;
+    text-align:center;
+    
+}
+.home-txt {
+    background-color:#2b0e0e;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+header h1 {
+    text-align: center;
+    margin: 0;
+}
+h2 {
+    font-size: 35px;
+    text-align: center;
+}
+ 
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+      
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: rgb(20, 240, 39);
+    text-decoration: none;
+    padding: 5px 10px;
+    transition: background-color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #440606;
+    border-radius: 10px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+    max-width: 800px;
+    align-items:center;
+    margin: 20px auto;
+}
+
+#calculate {
+    background-color: #3a1616;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+#calculate form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 800px;
+
+}
+#calculate label {
+    font-size: 18px;
+    margin-bottom: center;
+}
+#calculate input[type="date"] {
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    border: 2px solid #8f0505;
+    border-radius: 10px;
+    background-color: #4e2727;
+    max-width: 800px;
+   
+}
+#calculate input:hover {
+    background-color: #800909;
+    transition: background-color 1s;
+}
+#calculate button {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color:#2b0e0e;
+    color: rgb(83, 228, 107);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 1s;
+}
+#calculate button:hover {
+    background-color:#811111;
+   
+}
+#result {
+    
+    font-size: 20px;
+    color: #0cff20;
+    margin-top: 20px;
+    background-color: #311111;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow:rgba(0, 0, 0, 0.1);   
+}
+
+footer {
+    background-color: #2e1111;
+    color: rgb(82, 224, 77);
+    text-align: center;
+    padding: 5px 0;
+    position: absolute;
+    bottom: 4;
+    width: 100%;
+    border-radius: 10px;;
+}
+
+#welcome {
+    background-color:#421212;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.welcome-message {
+  
+   
+    border-radius: 10px;
+    padding: 20px;
+    margin-top :20px;
+    box-shadow: 0 4px 8px fgba(0, 0, 0, 0.1);
+}
+.welcome-message p {
+   font-size: 30px;
+   font-weight: bold;
+   color: #03e74f;
+   position: relative;
+
+
+}
+ button {
+    padding: 20px 40px;
+    background-color: #880b0b;
+    color:#9b8de7;
+    font-size: 16px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.5s;
+    font-weight: bold;
+ }
+ button:hover {
+    background-color: #e21212;
+    
+ 
+ }
+ #contact {
+    background-color: #2b0e0e;
+    padding: 20px;
+    border-radius: 20px;
+    color:#514a7c
+
+ }
+ .contact-info p {
+    font-size: 18px;
+
+ }
+
+ #text-area form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #311111;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    max-width: 8oopx;
+    margin: 20px auto;
+ }
+ #text-area form label {
+    font-size: 18px;
+    margin-top: 10px;
+ }
+ #text-area form input,
+ #text-area form textarea {
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 5px;
+    width: 80%;
+    border: 1px solid #047c28;
+    border-radius: 5px;
+    background-color: #865050;
+ }
+ #text-area form button {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #350202;
+    color:#5c26f0;
+    border-radius: 10px;
+    cursor: pinter;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+
+ }
+ #text-area form button:hover {
+    background-color: #440849;
+ }
+ .about-note {
+    background-color: #470e0e;
+    padding: 20px;
+    border-radius: 10px;
+    color:#2ab8b8;
+    font-size: 30px;
+    max-width: 800px;
+    margin: 20px auto;
+    font-weight: bold;
+ }

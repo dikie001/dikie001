@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home Page</a> </li>
+        </ul>
+    </nav>
+    <section id="calculate">
+        <h2 style="color:rgb(6, 255, 81)">Calculate Your Age</h2>
+        <form id="ageForm">
+            <label for="birthdate" style="color:rgb(19, 208, 241)">Enter your birth date:</label>
+            <input type="date" id="birthdate" name="birthdate" required>
+            <button type="button" onclick="calculateAge()">Calculate Age</button>
+        </form>
+        <div id="result"></div>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 Age Calculator. All rights reserved.</p>
+    </footer>
+    
+    
+    <script src="script.js"></script>
+</body>
+</html>
