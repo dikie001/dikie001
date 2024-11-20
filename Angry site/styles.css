@@ -1,0 +1,58 @@
+
+.agesub{
+    background-color:rgb(54, 25, 25) ;
+    width:500px;
+    padding: 20px;
+    border-radius: 20px;
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+   
+}
+#sub{
+    color:rgb(4, 80, 8);
+    font-weight: bold;
+    font-family: 'Times New roman';
+    font-size: 25px;
+    background-color: rgb(32, 218, 110);
+    border-radius: 20px;
+    border:none;
+    padding: 10px;
+    cursor:pointer;
+    
+    
+
+}
+#myText{
+    background-color: rgb(197, 132, 183);
+    color:rgb(30, 58, 30);
+    padding:10px;
+    border-radius:20px;
+    border:none;
+    font-size: 18px;
+    font-family: Arial;
+    font-weight: bold;
+  
+
+}
+#result{
+    background-color: rgb(129, 43, 118);
+    border-radius:10px;
+    border:none;
+    color:rgb(0, 0, 0);
+    padding:10px;
+    width:300px;
+    font-family: 'times new roman';
+    font-weight:bold;
+    font-size: 20px;
+}
+#lab{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'times new roman';
+    color:rgb(255, 4, 192);
+    display:flex;
+    justify-content: center;
+
+}
