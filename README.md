@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Mr Dickens**
 
-<div align="center" >
+<div align="center" padding-bottom="10px" >
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+Student;React+%7C+TypeScript+%7C+Express;Cybersecurity+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time)
 
@@ -12,7 +12,7 @@
 
 ---
 
-<table>
+<table padding="4px">
 <tr>
 <td width="50%">
 
@@ -79,8 +79,8 @@ const mrDickens = {
 <summary>🔥 <strong>Project Highlights</strong></summary>
 
 ### **Elevate - CBC Study Platform**
-- 📱 **Cross-platform** React Native application
-- 🎯 **Grade 5-12 CBC content** with comprehensive coverage
+- 📱 **Cross-platform** Progressive Web Application
+- 🎯 **Grade 9-12 CBC content** with comprehensive coverage
 - 🎮 **Gamified learning** through trivia and interactive quizzes
 - 📴 **Offline-first** architecture for unrestricted access
 - 🎲 **Randomized quizzes** for dynamic learning experiences
@@ -168,7 +168,7 @@ graph LR
 
 [![GitHub](https://img.shields.io/badge/GitHub-dikie001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dikie001)
 [![Portfolio](https://img.shields.io/badge/Portfolio-dikie.dev-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://dikie.dev)
-[![Email](https://img.shields.io/badge/Email-Connect-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dikie.dev)
+[![Email](https://img.shields.io/badge/Email-Connect-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omondidickens255@gmail.com)
 
 ---
 
