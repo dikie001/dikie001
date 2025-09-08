@@ -90,28 +90,8 @@ const mrDickens = {
 
 <div align="center">
 
-**🤖 ECHOES**  
-*AI Content Platform*
 
-![Status](https://img.shields.io/badge/💡_PLANNING-9945FF?style=for-the-badge)
 
-🧠 AI-Powered • 📖 Interactive • 🎭 Immersive  
-**React • Express • AI APIs**
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**🔐 SECURECODE**  
-*Security Tools*
-
-![Status](https://img.shields.io/badge/🔮_CONCEPT-FFD23F?style=for-the-badge)
-
-🛡️ Audit • 🔍 Scanner • 📊 Analytics  
-**Python • Security Libraries**
 
 </div>
 
