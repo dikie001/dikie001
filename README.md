@@ -27,13 +27,7 @@ const mrDickens = {
   passion: "Cybersecurity + Clean Development",
   currentFocus: "Building scalable solutions",
   motto: "Code with purpose, secure by design",
-  
-  getStatus: () => ({
-    learning: "Advanced React & Security",
-    building: ["Elevate", "Focus", "Echoes"],
-    exploring: "AI/ML integrations",
-    seeking: "Open source collaborations"
-  })
+
 };
 ```
 
