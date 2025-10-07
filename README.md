@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header&text=DICKENS%20OMONDI&fontSize=40&fontColor=ffffff&animation=fadeIn)
@@ -30,11 +29,13 @@ const developer = {
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 </div>
 
@@ -48,14 +49,6 @@ const developer = {
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikie001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2" />
 
 </div>
-
-
-## 🎯 Current Focus
-
-- 🔐 Advanced cybersecurity implementations
-- 📱 Mobile-first application development
-- 🌐 Scalable cloud architectures
-- 🤝 Open source contributions
 
 ## 📫 Connect With Me
 
