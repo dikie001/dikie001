@@ -1,4 +1,4 @@
-# Dickens Omondi
+
 
 <div align="center">
 
@@ -49,17 +49,6 @@ const developer = {
 
 </div>
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-| Project | Tech Stack | Status | Description |
-|---------|-----------|--------|-------------|
-| **ELEVATE** | React Native, TypeScript | 🚀 Active | Gamified learning platform for CBC curriculum |
-| **FOCUS** | React, Node.js, MongoDB | ⚡ Building | Productivity suite with analytics |
-| **SecureAPI** | Node.js, JWT, bcrypt | 🔒 Complete | Security-focused REST API framework |
-
-</div>
 
 ## 🎯 Current Focus
 
@@ -78,6 +67,6 @@ const developer = {
 
 ---
 
-*"Code is poetry written in logic."* – Building tomorrow's solutions today.
+*Code is poetry written in logic.* – Building tomorrow's solutions today.
 
 </div>
