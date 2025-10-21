@@ -18,7 +18,7 @@
 const developer = {
   name: "Dickens Omondi",
   role: "Full-Stack Developer",
-  location: "Nairobi, Kenya",
+  location: "University of Eastern Africa Baraton, Kenya",
   focus: ["Scalable Applications", "Security-First Development", "Clean Architecture"],
   currentGoal: "Building innovative solutions that matter"
 };
