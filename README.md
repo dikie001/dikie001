@@ -17,7 +17,7 @@
 ```typescript
 const developer = {
   name: "Dickens Omondi",
-  role: "Full-Stack Developer & Security Engineer",
+  role: "Full-Stack Developer",
   location: "Nairobi, Kenya",
   focus: ["Scalable Applications", "Security-First Development", "Clean Architecture"],
   currentGoal: "Building innovative solutions that matter"
