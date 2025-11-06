@@ -41,14 +41,14 @@ const developer = {
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dikie001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=dikie001&theme=tokyonight&hide_border=true&background=0d1117&stroke=0891b2&ring=0891b2&fire=f97316" />
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikie001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2" />
 
-</div>
+</div> -->
 
 ## 📫 Connect With Me
 
