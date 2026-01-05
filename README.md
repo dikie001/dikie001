@@ -62,7 +62,7 @@ const developer = {
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/smartphone-tablet.png" width="64"/>
 <br><br>
-<strong>Mobile Solutions</strong>
+<strong>AI powered systems</strong>
 
 </td>
 <td align="center" width="33%">
