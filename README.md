@@ -24,55 +24,23 @@
 
 <table>
   <tr>
-    <td width="65%">
-      <table border="0">
-        <tr>
-          <td valign="top" width="30">📍</td>
-          <td width="100"><b>Location</b></td>
-          <td><code>University of Eastern Africa, Baraton — Kenya 🇰🇪</code></td>
-        </tr>
-        <tr>
-          <td valign="top">🔭</td>
-      <td><b>Focus</b></td>
-<td>
-  <code>Production-Grade React</code>
-  <code>Type-Safe Frontends (TypeScript)</code>
-  <code>Design Systems (shadcn/ui)</code>
-  <code>Maintainable, Performant UIs</code>
-</td>
-        <tr>
-          <td valign="top">🛡️</td>
-          <td><b>Stack</b></td>
-          <td>
-            <code>Node.js</code>
-            <code>PostgreSQL</code>
-            <code>Prisma</code>
-            <code>Security-by-Design</code>
-          </td>
-        </tr>
-        <tr>
-          <td valign="top">🌱</td>
-          <td><b>Growth Track</b></td>
-          <td>
-            <code>System Design</code>
-            <code>Distributed Systems</code>
-            <code>Cloud Architecture</code>
-            <code>Applied AI</code>
-          </td>
-        </tr>
-        <tr>
-          <td valign="top">⚡</td>
-          <td><b>Edge</b></td>
-          <td><i>"I build with scale, failure, and security in mind."</i></td>
-        </tr>
-      </table>
+    <td width="60%" valign="center">
+      <br>
+      <p>
+        I am a Full-Stack Developer and software engineering student at the <b>University of Eastern Africa, Baraton</b> in Kenya 🇰🇪.
+      </p>
+      <p>
+        My focus is on building accessible, pixel-perfect, and performant web and mobile applications. I specialize in the <b>React ecosystem</b> (Next.js, TypeScript, React Native) and build robust backends using <b>Node.js and PostgreSQL</b>.
+      </p>
+      <p>
+        Currently, I am expanding my knowledge in System Design, Cloud Architecture, and AI integration to build scalable solutions that solve real-world problems.
+      </p>
     </td>
-    <td width="35%" align="center">
+    <td width="40%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
     </td>
   </tr>
 </table>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
