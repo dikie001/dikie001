@@ -145,5 +145,5 @@ Robust RESTful Architecture
 <br>
 
 <div align="center">
-  <i>"Code is poetry written in logic. Debug is the art of finding the missing semicolon at 3 AM."</i>
+  <i>"Code is poetry written in logic."</i>
 </div>
