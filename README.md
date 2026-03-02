@@ -8,7 +8,7 @@
   <a href="https://github.com/dikie001">
     <img src="https://img.shields.io/github/followers/dikie001?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a&color=0ea5e9" alt="GitHub Followers"/>
   </a>
-  <a href="https://dikie.dev">
+  <a href="https://dikie.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-dikie.dev-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0f172a" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/dickens-omondi">
